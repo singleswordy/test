@@ -1,6 +1,16 @@
 <?php
+#echo 'hello world!';
+?>
 
-echo phpinfo();
 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>test</title>
+</head>
+<body>
+<p>require js</p>
+</body>
+</html>
 
 
